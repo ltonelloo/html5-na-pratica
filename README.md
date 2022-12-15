@@ -6,8 +6,8 @@ STUDY
 
 [Português]
 
-Estudo em html e CSS. 
+Estudo em html. 
 
 [English]
 
-Study in html and CSS. 
+Study in html. 
